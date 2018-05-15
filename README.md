@@ -1,3 +1,2 @@
-# dino-1
-
-> A Vue.js project
+## Deployed
+https://dinodrill1.firebaseapp.com/
